@@ -1,6 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AyonovDenizs - Патчноуты ботов.</title><link>https://ayonovdenizs.github.io</link><description>Блог для выгрузки патчноутов. 
- Blog for upload patchnote's</description><copyright>AyonovDenizs - Патчноуты ботов.</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://ayonovdenizs.github.io</link></image><lastBuildDate>Tue, 01 Oct 2024 12:02:08 +0000</lastBuildDate><managingEditor>AyonovDenizs - Патчноуты ботов.</managingEditor><ttl>60</ttl><webMaster>AyonovDenizs - Патчноуты ботов.</webMaster><item><title>Update - ChatGPT bot - v.2.26</title><link>https://ayonovdenizs.github.io/post/Update%20-%20ChatGPT%20bot%20-%20v.2.26.html</link><description>Бот обновлен: 👀&#13;
+ Blog for upload patchnote's</description><copyright>AyonovDenizs - Патчноуты ботов.</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://ayonovdenizs.github.io</link></image><lastBuildDate>Sun, 13 Oct 2024 07:57:45 +0000</lastBuildDate><managingEditor>AyonovDenizs - Патчноуты ботов.</managingEditor><ttl>60</ttl><webMaster>AyonovDenizs - Патчноуты ботов.</webMaster><item><title>Update - ChatGPT bot - v.2.27 (include hotfix2, hotfix3)</title><link>https://ayonovdenizs.github.io/post/Update%20-%20ChatGPT%20bot%20-%20v.2.27%20%28include%20hotfix2%2C%20hotfix3%29.html</link><description>Бот обновлен:&#13;
+&#13;
+- Восстановлены Gemini и ChatGPT версии 3.5&#13;
+- Восстановлены ChatGPT&#13;
+- Восстановлена работа команды /start&#13;
+&#13;
+Bot updated:&#13;
+&#13;
+- Restored Gemini and ChatGPT 3.5&#13;
+- Restored ChatGPT&#13;
+- Restored work of command /start&#13;
+&#13;
+&#13;
+#update #hotfix&#13;
+https://repostermodsapk_bot.t.me (v. 2.27)&#13;
+&#13;
+Support me: https://t.me/chatgptbotbyayonovdenizs/274&#13;
+&#13;
+By xenial6.t.me with &lt;3。</description><guid isPermaLink="true">https://ayonovdenizs.github.io/post/Update%20-%20ChatGPT%20bot%20-%20v.2.27%20%28include%20hotfix2%2C%20hotfix3%29.html</guid><pubDate>Sun, 13 Oct 2024 07:57:21 +0000</pubDate></item><item><title>Update - ChatGPT bot - v.2.26</title><link>https://ayonovdenizs.github.io/post/Update%20-%20ChatGPT%20bot%20-%20v.2.26.html</link><description>Бот обновлен: 👀&#13;
 &#13;
 🔵 Добавлено веб-приложение для дублирования новостей об обновлениях моих проектов&#13;
 &#13;
