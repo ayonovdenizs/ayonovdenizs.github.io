@@ -1,6 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>AyonovDenizs - Патчноуты ботов.</title><link>https://ayonovdenizs.github.io</link><description>Блог для выгрузки патчноутов. 
- Blog for upload patchnote's</description><copyright>AyonovDenizs - Патчноуты ботов.</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://ayonovdenizs.github.io</link></image><lastBuildDate>Tue, 10 Dec 2024 12:23:54 +0000</lastBuildDate><managingEditor>AyonovDenizs - Патчноуты ботов.</managingEditor><ttl>60</ttl><webMaster>AyonovDenizs - Патчноуты ботов.</webMaster><item><title>Update - ChatGPT bot - v.3.4</title><link>https://ayonovdenizs.github.io/post/Update%20-%20ChatGPT%20bot%20-%20v.3.4.html</link><description>Бот обновлен: 👀&#13;
+ Blog for upload patchnote's</description><copyright>AyonovDenizs - Патчноуты ботов.</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://ayonovdenizs.github.io</link></image><lastBuildDate>Tue, 08 Apr 2025 14:40:30 +0000</lastBuildDate><managingEditor>AyonovDenizs - Патчноуты ботов.</managingEditor><ttl>60</ttl><webMaster>AyonovDenizs - Патчноуты ботов.</webMaster><item><title>ChatGPT bot - v.3.10</title><link>https://ayonovdenizs.github.io/post/ChatGPT%20bot%20-%20v.3.10.html</link><description>![Image](https://github.com/user-attachments/assets/1898acb8-3808-4914-afd7-1f1da5da2618)
+
+Бот @repostermodsapk_bot обновлен до версии 3.10: 👀
+
+- Убран GPT 3.5 из-за устаревания (нет API уже)
+- По умолчанию теперь GPT 4
+- Пофикшен Gemini (не мог найти модель ИИ)
+- Пофикшен GPT 4.
+
+The @repostermodsapk_bot has been updated to version 3.10:
+
+- GPT 3.5 has been removed due to being outdated (API is no longer available).
+- GPT 4 is now the default.
+- Gemini has been fixed (was unable to find the AI model).
+- GPT 4 has been fixed.
+
+#update_chagpt
+
+By @x6_team with ❤️。</description><guid isPermaLink="true">https://ayonovdenizs.github.io/post/ChatGPT%20bot%20-%20v.3.10.html</guid><pubDate>Tue, 08 Apr 2025 14:34:24 +0000</pubDate></item><item><title>Update - ChatGPT bot - v.3.4</title><link>https://ayonovdenizs.github.io/post/Update%20-%20ChatGPT%20bot%20-%20v.3.4.html</link><description>Бот обновлен: 👀&#13;
 &#13;
 🐱 - Обновление переводов&#13;
 ⚙ - Добавлена функция показа текущей модели ИИ&#13;
